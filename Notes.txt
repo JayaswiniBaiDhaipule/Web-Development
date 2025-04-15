@@ -1,0 +1,5 @@
+youtube = SuperSimpleDev
+
+ lesson1 ---> HTML Basics
+ lesson2 ---> CSS Basics
+ lesson3 ---> Hovers,transition,shadows
