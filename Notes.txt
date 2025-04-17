@@ -4,3 +4,11 @@ youtube = SuperSimpleDev
  lesson2 ---> CSS Basics
  lesson3 ---> Hovers, transition, shadows
  lesson4 ---> Chrome DevTools & CSS Box Model
+ lesson5 ---> Text Styles
+ lesson6 ---> The HTML Structure
+ lesson7 ---> Images & Text Boxes
+ lesson8 ---> CSS Display Property
+ lesson9 ---> The <div> Element
+ lesson10 ---> Nested Layouts Technique
+ lesson11 ---> CSS Grid
+
